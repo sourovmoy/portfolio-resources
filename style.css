@@ -121,3 +121,25 @@ main{
     font-size: 20px;
     font-weight:700 ;   
 }
+/* what i do */
+.what-i-do{
+    text-align: center;
+}
+
+.skills{
+    display: flex;
+}
+.do-titel{
+    font-size:95 ;
+    font-weight: 700;
+
+}
+.do-para{
+    font-size:18px ;
+    font-weight:400 ;
+
+}
+.slill h4{
+    font-size:20px ;
+    font-weight: 700;
+}
