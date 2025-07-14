@@ -65,7 +65,13 @@ nav ul li a{
 .btn2{
     background-color: #FFF8F3;
     border-radius: 5px;
+    border: line;
     border-color: #FD6E0A;
+    font-size: 20px;
+    font-weight: 700;
+    color: #FD6E0A;
+    padding: 18px 35px;
+    
 }
 /* banner1 */
 .banner1{
@@ -205,7 +211,7 @@ footer p{
     font-size: 16px;
     font-weight: 400;
 }
-.informations input, button {
+.informations input, {
     background-color: #FFFFFF;
     display: block;
 }
