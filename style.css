@@ -211,7 +211,7 @@ footer p{
     font-size: 16px;
     font-weight: 400;
 }
-.informations input,.submit{
+.informations input,{
     background-color: #FFFFFF;
     display: block;
 }
@@ -224,6 +224,8 @@ footer p{
     width: 461px; 
     height: 64px;
     margin-bottom: 24px;
+    display: block;
 }
+
 
 
