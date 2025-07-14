@@ -164,9 +164,10 @@ main{
     margin-top: 130px;
     margin-bottom: 113px;
 }
+
 .summary{
     display: flex;
-    gap: 71px;
+    gap: 34px;
 }
 .summary h3{
     font-size: 30px;
@@ -184,6 +185,39 @@ main{
     font-size: 16px;
     font-weight: normal;
 }
-.container{
-    gap: 72px;
+.download-cv{
+    text-align: center;
+    margin:50px 0px 113px 0px;
 }
+/* footer-coloum */
+footer{
+    display: flex;
+    background-color:#FFF8F3 ;
+    justify-content: space-around;
+    padding: 130px 250px;
+   
+}
+footer h3{
+    font-size: 35px;
+    font-weight: 700;
+}
+footer p{
+    font-size: 16px;
+    font-weight: 400;
+}
+.informations input, button {
+    background-color: #FFFFFF;
+    display: block;
+}
+.info{
+    font-size: 16px;
+    font-weight: 600;
+    padding-left: 18px;
+    border: none;
+    border-radius: 5px;
+    width: 461px; 
+    height: 64px;
+    margin-bottom: 24px;
+}
+
+
