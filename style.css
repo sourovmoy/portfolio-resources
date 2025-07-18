@@ -198,10 +198,10 @@ main{
 /* footer-coloum */
 footer{
     display: flex;
+    justify-content: space-between;
     background-color:#FFF8F3 ;
-    justify-content: space-around;
-    padding: 130px 250px;
-   
+    
+    padding: 130px 100px;
 }
 footer h3{
     font-size: 35px;
@@ -211,7 +211,7 @@ footer p{
     font-size: 16px;
     font-weight: 400;
 }
-.informations input,{
+.informations input{
     background-color: #FFFFFF;
     display: block;
 }
@@ -225,6 +225,9 @@ footer p{
     height: 64px;
     margin-bottom: 24px;
     display: block;
+}
+.footer-coloum{
+    margin: 0 30px;
 }
 
 
